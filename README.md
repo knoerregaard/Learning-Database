@@ -20,6 +20,6 @@
 ### The relational (data) model
 - Codd, 1970, about his research paper
 - Concepts
- - Skemaer   
+-- Skemaer   
 
 
